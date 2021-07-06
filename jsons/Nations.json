@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Fairy Alliance",
+		"leaderName": "Cirno",
+		"adjective": ["Fairy Alliance"],
+		"startBias": ["Avoid [Desert]"],
+		"startIntroPart1": "All hail Cirno! All hail the strongest and smartest of the fairies! It's high time fairies got some respect around here, and as the strongest fairy, you're just the one to see it happen! Will the youkai cower in fear at your armies that never stay dead, or will the humans ooh and aah at the beauty of your ice sculptures and nature art? To build a civilization that will stand the test of time, everything is 1, 2, 9!",
+		"startIntroPart2": "The Alliance is led by Cirno, the self-proclaimed strongest fairy, but not alone: she often gets assistance from her fairy or non-fairy friends. With assistance from her friends, the Great Fairy Alliance hopes to bring respect to fairies, bugs, small birds, and whatever-Rumia-ises. And really: if someone else conquers most of the planet, or launches a mission to the Moon, or creates a culture that will define the arc of history, and the fairies don't because they were spending too much time having fun...aren't they the real winners?",
+		"declaringWar": "I challenge your civilization to danmaku battle! Fairies will fill the sky with bullets!.",
+		"attacked": "If it's a fight you want, I'll be happy to oblige!",
+		"defeated": "Okay, okay, uncle, uncle!",
+		"introduction": "Ah-ha! I told you guys there was a weirdo around here! Hello, weirdo. I'm Cirno!.",
+		"neutralHello": "Oh, hello there.",
+		"hateHello": "You again? Shouldn't you have fallen in a hole by now?",
+		"tradeRequest": "I kinda froze some of our supplies and I need replacements before Daiyousei finds out.",
+		"outerColor": [82,122,191],
+		"innerColor": [255,255,255],
+		"uniqueName": "Great Fairy Wars",
+		"uniqueText": " +100% Production when constructing unit but unit maintenance costs is higher 75%.",
+		"uniques" : ["+[100]% Production when constructing [Military] units [in all cities]", 
+					"+[100]% Production when constructing [Civilian] units [in all cities]",
+					"-[-75]% [Military] unit maintenance costs",
+					"-[-75]% [Civilian] unit maintenance costs"],
+		"cities": ["Cirnopolis", "Daiyouseiville", "Sunnydale", "Lunaberg", "Star City", "White Rock", "Wrigglington", "Lily Whitefield", "Mystia Crossing",
+			"Rumia Town", "Autumn Falls", "Summer Meadows", "Spring Forest", "Winter Mountain", "Chen Valley", "Drizzle Cove", "Cirrus", "Blustery Village",
+			"Misty Lake", "Petal Grove", "Syracuse"]
+	},
+]

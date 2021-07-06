@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Spring Herald",
+		"unitType": "Ranged",
+		"uniqueTo": "Fairy Alliance",
+		"replaces": "Gatling Gun",
+		"movement": 3,
+		"range": 1,
+		"strength": 35,
+		"rangedStrength": 35,
+		"cost": 225,
+		"promotions": ["Extended Range"],
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun"
+	},
+]
